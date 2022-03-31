@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Empleado\Empleado\bin\Debug\Empleado.exe
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Empleado\Empleado\bin\Debug\Empleado.pdb
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Empleado\Empleado\obj\Debug\Empleado.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Empleado\Empleado\obj\Debug\Empleado.exe
+C:\Users\USUARIO\Documents\SharpDevelop Projects\Empleado\Empleado\obj\Debug\Empleado.pdb
